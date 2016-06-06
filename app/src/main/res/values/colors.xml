@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="text">#212121</color>
+    <color name="secondary">#727272</color>
+    <color name="hint">#B8B8B8</color>
+    <color name="dividers">#DADADA</color>
+
+    <!-- general colors for drawer -->
+    <color name="list_background">#F2F2F2</color>
+    <!-- primary colors for drawer -->
+    <color name="list_background_normal">#FCFCFC</color>
+    <!-- secondary colors for drawer -->
+    <color name="list_background_secondary_normal">#F2F2F2</color>
+
+
+    <!-- 中国人的颜色 -->
+    <color name="c_peach">#9d2c32</color><!--胭脂 -->
+    <color name="c_bamboo">#789263</color><!--竹青 -->
+    <color name="c_autumn">#d9b614</color><!--秋香 -->
+    <color name="c_purple">#8c4356</color><!--绛紫 -->
+    <color name="c_wingceltis">#b26c60</color><!--檀 -->
+    <color name="c_amber">#cb6a25</color><!--琥珀 -->
+    <color name="c_coil">#a58475</color><!--绾 -->
+    <color name="c_darkblue">#415064</color><!--黛蓝 -->
+    <color name="c_fire">#c32a2c</color><!--赤 -->
+    <color name="c_dark">#494367</color><!--黛 -->
+    <color name="c_imflammation">#ff3300</color><!--炎 -->
+    <color name="c_tea">#b25d43</color><!--茶色 -->
+    <color name="c_imperial">#eb5934</color>  <!--妃 -->
+    <color name="c_moonwhite">#d5eced</color><!--月白 -->
+    <color name="c_teawhite">#f6f8f5</color><!--茶白 -->
+    <color name="c_multitude">#74654e</color><!-- 黎-->
+    <color name="c_watergreen">#d6f1e8</color><!--水绿 -->
+    <color name="c_crow">#434b4f</color><!--鸦黑 -->
+    <color name="c_indigo">#167faf</color><!-- 靛青 -->
+    <color name="c_camel">#a48662</color><!--骆驼 -->
+    <color name="c_tooth">#eddfb2</color><!--牙色 -->
+    <color name="c_mugwort">#a2e5c6</color><!--艾绿 -->
+
+</resources>

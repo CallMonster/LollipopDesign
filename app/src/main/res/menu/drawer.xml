@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navigation_original"
+            android:icon="@drawable/ic_star_white_24dp"
+            android:title="关注">
+
+            <menu>
+                <item
+                    android:id="@+id/navigation_timer"
+                    android:icon="@drawable/ic_av_timer_black_48dp"
+                    android:title="时间" />
+                <item
+                    android:id="@+id/navigation_closed"
+                    android:icon="@drawable/ic_closed_caption_black_48dp"
+                    android:title="丞相" />
+
+            </menu>
+        </item>
+        <item
+            android:id="@+id/navigation_library"
+            android:icon="@drawable/ic_public_white_24dp"
+            android:title="浏览" />
+        <item
+            android:id="@+id/navigation_closed2"
+            android:icon="@drawable/ic_closed_caption_black_48dp"
+            android:title="丞相2" />
+    </group>
+    <!--itemBackground — 设置菜单项的背景
+    itemIconTint — 设置菜单项的图标
+    itemTextColor — 这只菜单项目的文本颜色-->
+
+</menu>
