@@ -11,7 +11,9 @@ import android.view.animation.AccelerateDecelerateInterpolator;
 import java.util.ArrayList;
 import java.util.List;
 
-
+/**
+ * 加入用户数据读取动画效果
+ */
 public class CustomItemAnimator extends SimpleItemAnimator {
 
     List<RecyclerView.ViewHolder> mPendingAdd = new ArrayList<RecyclerView.ViewHolder>();

@@ -12,7 +12,9 @@ import com.facebook.rebound.SpringSystem;
 import java.util.ArrayList;
 import java.util.List;
 
-
+/**
+ * 圆形动画效果（输入读入动画效果）
+ */
 public class ReboundItemAnimator extends SimpleItemAnimator {
     //hold the views to animate in runPendingAnimations
     private List<RecyclerView.ViewHolder> mViewHolders = new ArrayList<RecyclerView.ViewHolder>();
