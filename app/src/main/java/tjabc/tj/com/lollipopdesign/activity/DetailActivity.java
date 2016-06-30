@@ -157,8 +157,7 @@ public class DetailActivity extends AppCompatActivity implements View.OnClickLis
 
             propertyAnimator.setListener(new Animator.AnimatorListener() {
                 @Override
-                public void onAnimationStart(Animator animator) {
-                }
+                public void onAnimationStart(Animator animator) {}
 
                 @Override
                 public void onAnimationEnd(Animator animator) {
