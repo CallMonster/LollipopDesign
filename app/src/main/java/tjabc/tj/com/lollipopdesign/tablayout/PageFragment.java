@@ -20,7 +20,6 @@ public class PageFragment extends Fragment {
                              Bundle savedInstanceState) {
         View view = LayoutInflater.from(getActivity()).inflate(R.layout.fragment_page, null);
         ButterKnife.bind(this, view);
-
         return view;
     }
 
